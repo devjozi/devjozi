@@ -1,16 +1,20 @@
-## Hi there 👋
+# Joseph 
 
-<!--
-**devjozi/devjozi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Head of IT • Certified Software Engineer  
+DevOps & Infrastructure Architect
 
-Here are some ideas to get you started:
+I design, build, and operate secure systems that power real businesses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+• Production-grade software engineering  
+• Infrastructure architecture & automation  
+• CI/CD, DevOps & reliability engineering  
+• Network security & performance optimization  
+• AI-driven operational systems  
+
+---
+
+Engineering discipline.  
+Operational ownership.  
+Systems built to scale.
