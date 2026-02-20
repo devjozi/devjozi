@@ -5,7 +5,6 @@ DevOps & Infrastructure Architect
 
 I design, build, and operate secure systems that power real businesses.
 
----
 
 • Production-grade software engineering  
 • Infrastructure architecture & automation  
@@ -13,7 +12,6 @@ I design, build, and operate secure systems that power real businesses.
 • Network security & performance optimization  
 • AI-driven operational systems  
 
----
 
 Engineering discipline.  
 Operational ownership.  
